@@ -9,7 +9,7 @@
       >.
     </p>
     <h3>Installed CLI Plugins</h3>
-    <ul>
+    <!-- <ul>
       <li>
         <a
           href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
@@ -106,7 +106,7 @@
           >awesome-vue</a
         >
       </li>
-    </ul>
+    </ul> -->
   </div>
 </template>
 
